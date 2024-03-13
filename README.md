@@ -5,8 +5,10 @@ assignment project for linkedin ai reply chrome-extension
 
 
 
+https://github.com/anutom20/linkedin-ai-reply-chrome-extension/assets/69851529/5014b6eb-91fa-4386-ab79-a9fa0f9faf42
 
-https://github.com/anutom20/linkedin-ai-reply-chrome-extension/assets/69851529/74d95f3d-39a6-47e0-8f46-2cc958c57400
+
+
 
 # ChatGPT Writer Take-Home Coding Assignment
 
